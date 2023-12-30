@@ -10,6 +10,7 @@
 <body>
     <!-----------------------header section------------------->
     <div class="header">
+	<div class="con">
         <div class="nav">
             <h1>Portfolio</h1>
                 <ul class="link">
@@ -25,7 +26,7 @@
     <div class="hero">
         <div class="row">
             <div class="col-2">
-                <h2>Hi, I Am Web Developer <br>Vyas Aaryan</h2>
+                <h2>Hi, I Am Web Developer Vyas Aaryan</h2>
                 <p>My Work Is My Passion</p>
                 <button>Join With Us</button>
             </div>
@@ -34,7 +35,7 @@
             </div>
         </div>
     </div>
-<br>
+
     <!-------------Skill section---------------->
 
     <div class="skill">
